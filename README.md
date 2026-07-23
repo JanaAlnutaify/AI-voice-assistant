@@ -73,12 +73,12 @@ cd AI-Voice-Assistant
 ```bash
 pip install -r requirements.txt
 
-
+```
 ### 3️⃣ Run the Application
 
 ```bash
 python voiceToText.py
-```
+ ```
 
 ---
 
