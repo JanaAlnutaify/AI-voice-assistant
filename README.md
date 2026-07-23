@@ -43,8 +43,9 @@ An intelligent Arabic voice assistant that combines **Whisper** for speech recog
 
 Watch the AI voice assistant in action:
 
-[![Watch the demo](https://youtube.com/shorts/4C_h__ag-Hw?feature=share/maxresdefault.jpg)](https://youtube.com/shorts/4C_h__ag-Hw?feature=share)
+[![Watch the demo](https://img.youtube.com/vi/4C_h__ag-Hw/maxresdefault.jpg)](https://youtube.com/shorts/4C_h__ag-Hw)
 
+---
 
 ## 🔑 Prerequisites & API Key Setup
 
@@ -52,18 +53,12 @@ Before running the application, you need to obtain a **Cohere API Key**.
 
 🔗 **Get your API Key:** [Cohere API Keys](https://dashboard.cohere.com/api-keys)
 
-> ⚠️ **Important:** COHERE_API_KEY=********** replace with your API key
+> ⚠️ **Important:** Replace `YOUR_COHERE_API_KEY` with your actual API key in your code or environment variables.
 
 ---
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/JanaAlnutaify/YOUR-REPOSITORY-NAME.git
-cd YOUR-REPOSITORY-NAME
-```
 
 ### 2️⃣ Install Dependencies
 
