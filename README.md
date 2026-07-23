@@ -59,6 +59,11 @@ Before running the application, you need to obtain a **Cohere API Key**.
 
 ## 🚀 Getting Started
 
+### 1️⃣ Download the Project
+Download and extract the repository ZIP file, or navigate to the project directory:
+```bash
+cd AI-Voice-Assistant
+
 
 ### 2️⃣ Install Dependencies
 
