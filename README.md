@@ -43,8 +43,7 @@ An intelligent Arabic voice assistant that combines **Whisper** for speech recog
 
 Watch the AI voice assistant in action:
 
-[Watch the Video Demo](https://youtube.com/shorts/4C_h__ag-Hw?feature=share)
-
+[![Watch the demo](https://youtube.com/shorts/4C_h__ag-Hw?feature=share/maxresdefault.jpg)](https://youtube.com/shorts/4C_h__ag-Hw?feature=share)
 ---
 
 ## 🔑 Prerequisites & API Key Setup
