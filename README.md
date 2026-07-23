@@ -66,12 +66,13 @@ Download and extract the repository ZIP file, or navigate to the project directo
 ```bash
 cd AI-Voice-Assistant
 
+```
 
 ### 2️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
-```
+
 
 ### 3️⃣ Run the Application
 
