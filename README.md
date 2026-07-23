@@ -54,8 +54,6 @@ Before running the application, you need to obtain a **Cohere API Key**.
 
 > ⚠️ **Important:** COHERE_API_KEY=********** replace with your API key
 
-```
-
 ---
 
 ## 🚀 Getting Started
