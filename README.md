@@ -33,6 +33,8 @@ An intelligent Arabic voice assistant that combines **Whisper** for speech recog
 
 ![Main Interface](intarface.png)
 
+-----
+
 ### 2️⃣ Interaction & Question Sample
 
 ![Application Prompt](pic1.png)
